@@ -18,3 +18,8 @@ fix : 기능 수정<br/>
 style : 스타일 관련<br/>
 refactor : 코드 리펙토링<br/>
 
+## Push 후 Pull Request 하기
+base(받는 브랜치)와 compare(보내는 브랜치)을 알맞게 설정해준다.<br/>
+제목, 내용을 작성해준다. 내용은 성심성의껏, 무엇을 어떻게 변경했는지, 왜 변경했는지 작성해준다.<br/>
+Option을 설정한다. 리뷰 해줄 사람(Reviewers), PR 승인 권한을 가지는 사람(Assignees)정도 설정하면 된다.<br/>
+다 설정 했으면 Create pull request 버튼을 눌러 PR을 생성한다. (3번에 설정한 사람들에게 메일로 알림이 가게 된다.)
